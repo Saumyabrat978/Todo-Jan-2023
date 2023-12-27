@@ -73,7 +73,7 @@ Make sure you have the following installed:
 
 ## Contributing
 
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome!
 
 
 
